@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Victor Hugo 😊
+### Olá!! Eu sou o Gabriel Zanela 😊
 <div align="center">
   <a href="https://github.com/Gabrielzanela">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Gabrielzanela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
